@@ -1,8 +1,7 @@
 # testUsman
 
 
-THIS IS JUST A TEST OF GIT
-
+NO TEST
 
 
 Usman Test
